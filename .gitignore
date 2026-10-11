@@ -1,0 +1,33 @@
+# Dependency and build artifacts
+node_modules/
+release/
+build/
+coverage/
+*.exe
+*.dll
+*.pdb
+*.pyc
+__pycache__/
+.venv/
+# Private data / credentials
+.env
+.env.*
+!.env.example
+secrets.json
+memories.json
+metadata.json
+.jarvis-data/
+logs/
+*.log
+*.key
+*.pem
+*.p12
+*.pfx
+*.db
+*.sqlite
+# Archives and unlicensed third-party content
+*.zip
+assets/characters/gallery/**/model.pmx
+assets/characters/gallery/**/textures/
+assets/characters/jarvis/
+.DS_Store

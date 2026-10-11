@@ -1,0 +1,28 @@
+{
+  "model": "model.pmx",
+  "textures": {
+    "skin.bmp": "textures/skin.bmp",
+    "spa/hair_s.bmp": "textures/spa/hair_s.bmp",
+    "spa\\hair_s.bmp": "textures/spa/hair_s.bmp",
+    "hair_s.bmp": "textures/spa/hair_s.bmp",
+    "tex/spa_h.png": "textures/tex/spa_h.png",
+    "tex\\spa_h.png": "textures/tex/spa_h.png",
+    "spa_h.png": "textures/tex/spa_h.png",
+    "tex/体.png": "textures/tex/体.png",
+    "tex\\体.png": "textures/tex/体.png",
+    "体.png": "textures/tex/体.png",
+    "tex/武器.png": "textures/tex/武器.png",
+    "tex\\武器.png": "textures/tex/武器.png",
+    "武器.png": "textures/tex/武器.png",
+    "tex/足.png": "textures/tex/足.png",
+    "tex\\足.png": "textures/tex/足.png",
+    "足.png": "textures/tex/足.png",
+    "tex/颜.png": "textures/tex/颜.png",
+    "tex\\颜.png": "textures/tex/颜.png",
+    "颜.png": "textures/tex/颜.png",
+    "tex/髮.png": "textures/tex/髮.png",
+    "tex\\髮.png": "textures/tex/髮.png",
+    "髮.png": "textures/tex/髮.png",
+    "toon_defo.bmp": "textures/toon_defo.bmp"
+  }
+}

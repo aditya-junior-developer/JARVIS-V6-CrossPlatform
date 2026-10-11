@@ -1,0 +1,79 @@
+[
+  {
+    "id": "v1",
+    "version": "V1",
+    "name": "Yao Jiayin",
+    "displayName": "V1 · Yao Jiayin",
+    "preview": "/pmx-previews/v1.webp",
+    "ready": true,
+    "modelBytes": 4388176,
+    "textureCount": 15,
+    "sourceArchive": "1737477261288 (1)(2).zip"
+  },
+  {
+    "id": "v3",
+    "version": "V3",
+    "name": "Star Maid",
+    "displayName": "V3 · Star Maid",
+    "preview": "/pmx-previews/v3.webp",
+    "ready": true,
+    "modelBytes": 6189220,
+    "textureCount": 42,
+    "sourceArchive": "星临者女仆装皮肤v1.2_by_晓光忆时_765375b6936f55fca8c55ba6fd281a3b(2).zip"
+  },
+  {
+    "id": "v4",
+    "version": "V4",
+    "name": "Caesar",
+    "displayName": "V4 · Caesar",
+    "preview": "/pmx-previews/v4.webp",
+    "ready": true,
+    "modelBytes": 2339498,
+    "textureCount": 10,
+    "sourceArchive": "ZSHCchUKIw(2).zip"
+  },
+  {
+    "id": "v5",
+    "version": "V5",
+    "name": "Thoth",
+    "displayName": "V5 · Thoth",
+    "preview": "/pmx-previews/v5.webp",
+    "ready": true,
+    "modelBytes": 2439987,
+    "textureCount": 11,
+    "sourceArchive": "深空之眼—苍鹭·托特「扉页之吻」_by_神帝宇_62dd666ffc4af98db5a8a6bbc6186209(5).zip"
+  },
+  {
+    "id": "v6",
+    "version": "V6",
+    "name": "Burnice",
+    "displayName": "V6 · Burnice",
+    "preview": "/pmx-previews/v6.webp",
+    "ready": true,
+    "modelBytes": 4271770,
+    "textureCount": 11,
+    "sourceArchive": "xPIr9pYwoU(3).zip"
+  },
+  {
+    "id": "v7",
+    "version": "V7",
+    "name": "Jane",
+    "displayName": "V7 · Jane",
+    "preview": "/pmx-previews/v7.webp",
+    "ready": true,
+    "modelBytes": 2850969,
+    "textureCount": 9,
+    "sourceArchive": "MY_MODEL.zip"
+  },
+  {
+    "id": "v8",
+    "version": "V8",
+    "name": "Richie",
+    "displayName": "V8 · Richie",
+    "preview": "/pmx-previews/v8.webp",
+    "ready": true,
+    "modelBytes": 5631066,
+    "textureCount": 7,
+    "sourceArchive": "无限大-里希（修复）_by_特级面包人_dde3919131b5e14bb9cf4ea794229cc7(2).zip"
+  }
+]

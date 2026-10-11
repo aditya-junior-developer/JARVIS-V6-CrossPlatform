@@ -1,0 +1,38 @@
+appId: com.jarvis.assistant
+productName: JARVIS
+copyright: Copyright (c) 2026 JARVIS
+
+directories:
+  output: release
+
+asar: false
+
+files:
+  - electron/**/*
+  - dist/**/*
+  - assets/**/*
+  - desktop_agent/**/*
+  - pmx_gallery_api.cjs
+  - run_agent.py
+  - package.json
+  - '!**/secrets.json'
+  - '!**/.env'
+  - '!**/.jarvis-data/**'
+  - '!**/logs/**'
+
+win:
+  target:
+    - target: nsis
+      arch: [x64]
+    - target: portable
+      arch: [x64]
+
+nsis:
+  oneClick: false
+  perMachine: false
+  allowToChangeInstallationDirectory: true
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+
+portable:
+  artifactName: JARVIS-Portable-${version}.${ext}

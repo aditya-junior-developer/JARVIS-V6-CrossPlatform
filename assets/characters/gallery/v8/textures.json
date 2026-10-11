@@ -1,0 +1,12 @@
+{
+  "model": "model.pmx",
+  "textures": {
+    "richie_body01_color.png": "textures/richie_body01_color.png",
+    "richie_body02_color.png": "textures/richie_body02_color.png",
+    "richie_body_color.png": "textures/richie_body_color.png",
+    "richie_eye_color.png": "textures/richie_eye_color.png",
+    "richie_face_color.png": "textures/richie_face_color.png",
+    "richie_hair_color.png": "textures/richie_hair_color.png",
+    "richie_hair_color2.png": "textures/richie_hair_color2.png"
+  }
+}

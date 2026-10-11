@@ -1,0 +1,16 @@
+{
+  "model": "model.pmx",
+  "textures": {
+    "mc1.png": "textures/mc1.png",
+    "mc3.png": "textures/mc3.png",
+    "toon2.png": "textures/toon2.png",
+    "toon3.png": "textures/toon3.png",
+    "头发.png": "textures/头发.png",
+    "眼睛.png": "textures/眼睛.png",
+    "眼睛1.png": "textures/眼睛1.png",
+    "脸.png": "textures/脸.png",
+    "衣服.png": "textures/衣服.png",
+    "衣服2.png": "textures/衣服2.png",
+    "表情.png": "textures/表情.png"
+  }
+}
